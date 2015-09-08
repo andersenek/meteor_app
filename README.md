@@ -21,6 +21,7 @@ With nothing but JavaScript, you’re able to build modern, real-time web applic
 There are so many reasons! So far, my favorite reason (sourced from http://www.sitepoint.com/7-reasons-develop-next-web-app-meteor/) is that:
 
 * You can develop with just one language.
+
 > One of the frustrating parts of being a web developer is the need to wear a variety of hats. You need to think about the front-end, the back-end, and the database, and then there’s another million details that squeeze out the last inch of your mental capacity. Meteor simplifies this process by shrinking the scope of what you need to consider, allowing you to build and manage the front-end, the back-end, and the database with nothing but JavaScript.
 
 > There’s another benefit to writing an entire application with one language. One line of code can run on both the client and the sever and do different things in either environment. So when the statement to create a collection runs on the server it, predictably enough, creates a collection. But when that same statement runs on the client (which it will do by default), it creates a purely local collection within the user’s browser. The user then interfacts with the local collection directly, which is why the data on their screen can change instantaneously, while the local and server-side collections are seamlessly synced in the background.
