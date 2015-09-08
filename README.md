@@ -51,6 +51,7 @@ Meteor is maintained by the Meteor Development Group. This their team and the me
 
 ##### 7. What resources do you recommend for interested students?
   1. Meteor Docs: http://docs.meteor.com/#/full/
+
   Also, get started by following well documented Meteor.js tutorials:
   * https://scotch.io/tutorials/learn-meteor-js-from-scratch-build-a-polling-app
   * https://www.meteor.com/tutorials/blaze/creating-an-app
